@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.1.6">
   <diagram name="Page-1" id="EbjfTGf5r0Gx9nRoqe3C">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cg-BynvlAc0QhbgM30q9-4" value="User Story,&lt;br&gt;feature, bug, refactor etc" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="225" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cg-BynvlAc0QhbgM30q9-19" value="&lt;h4&gt;&lt;strong&gt;Development Workflow&lt;/strong&gt;&lt;/h4&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="200" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cg-BynvlAc0QhbgM30q9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cg-BynvlAc0QhbgM30q9-19" source="cg-BynvlAc0QhbgM30q9-20" target="cg-BynvlAc0QhbgM30q9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg-BynvlAc0QhbgM30q9-20" value="&lt;h5&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Branch Creation&lt;/span&gt;&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cg-BynvlAc0QhbgM30q9-19">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cg-BynvlAc0QhbgM30q9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cg-BynvlAc0QhbgM30q9-19" source="cg-BynvlAc0QhbgM30q9-21" target="cg-BynvlAc0QhbgM30q9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cg-BynvlAc0QhbgM30q9-21" value="&lt;h5&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Code Implementation&lt;/span&gt;&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cg-BynvlAc0QhbgM30q9-19">
+          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cg-BynvlAc0QhbgM30q9-23" value="&lt;h5&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Commit &amp;amp; Push to GitHub&lt;/span&gt;&lt;/h5&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cg-BynvlAc0QhbgM30q9-19">
+          <mxGeometry x="40" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
